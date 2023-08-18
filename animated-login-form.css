@@ -115,7 +115,7 @@ input[type="submit"] {
 
 input[type="submit"]:hover {
     border-color: #2691d9;
-    transition: .5s;
+    transition: .8s;
 }
 
 .signup_link {
@@ -134,4 +134,5 @@ input[type="submit"]:hover {
 .signup_link a:hover {
     text-decoration: underline;
     color: #000;
+    transition: ease 2s;
 }
